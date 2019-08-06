@@ -1,7 +1,7 @@
 # Socket.IO server - client example
-### this is just a basic example to lern how Socket.IO works 
+### This is just a basic example to learn how Socket.IO works!!! 
 
-### how run our app?
+### How run our app?
 
     1- npm install or yarn install
     2- npm run dev or yarn dev (to start the dev server)
